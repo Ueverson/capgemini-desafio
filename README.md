@@ -7,6 +7,12 @@
 ### PRÉ-REQUISITOS
 * Possuir o Maven instalado na máquina;
 
+### TECNOLOGIAS UTILIZADAS
+* Java
+* Junit
+* Maven
+* Git
+
 
 ### COMO EXECUTAR A APLICAÇÃO
 
