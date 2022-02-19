@@ -1,0 +1,7 @@
+br/com/capgemini/academia/java/model/LocalizadorDeAnagrama.class
+br/com/capgemini/academia/java/exception/ValidadorDeSenhaForteException.class
+br/com/capgemini/academia/java/model/ConstrutorDeEscada.class
+br/com/capgemini/academia/java/Aplicacao.class
+br/com/capgemini/academia/java/exception/ConstrutorDeEscadaException.class
+br/com/capgemini/academia/java/model/ValidadorSenhaForte.class
+br/com/capgemini/academia/java/exception/LovalizadorDeAnagramaException.class

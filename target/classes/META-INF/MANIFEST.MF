@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: diogo
+Build-Jdk: 11.0.13
+Main-Class: br.com.capgemini.academia.java.Aplicacao
+Created-By: Maven Integration for Eclipse
+
